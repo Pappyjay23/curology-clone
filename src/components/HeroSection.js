@@ -47,6 +47,11 @@ const HeroButton = styled(Link)`
   justify-content: center;
   align-items: center;
   margin-bottom: 2rem;
+  transition: all 0.3s ease;
+
+  &:hover{
+    background-color: #432E64;
+  }
 `
 const HeroSmall = styled.small`
   color: #332E54;
