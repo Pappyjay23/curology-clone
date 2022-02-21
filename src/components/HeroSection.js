@@ -28,6 +28,7 @@ const HeadText = styled.p`
   font-size: 2.5rem;
   font-weight: bold;
   margin-bottom: 2rem;
+  color: #432E64;
 `
 const SubText = styled.p`
   margin-bottom: 2rem;
